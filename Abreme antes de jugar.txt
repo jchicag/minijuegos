@@ -1,0 +1,6 @@
+Hola !!!
+Bienvenido al proyecto final del grupo #1
+MINIJUEGOS en python
+Para poder disfrutar de el programa tienes que abrir el archivo minijuegos.py
+Esperemos te guste nuestro proyecto
+:)
